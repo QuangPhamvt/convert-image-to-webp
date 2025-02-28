@@ -21,8 +21,8 @@ To use this project, follow these steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/convertimage.git
-   cd convertimage
+   git clone https://github.com/QuangPhamvt/convert-image-to-webp.git
+   cd convert-image-to-webp
    ```
 
 2. **Install dependencies**:
