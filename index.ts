@@ -3,7 +3,7 @@ import sharp from "sharp";
 console.log(
   "Hello there! Please enter the path to the folder containing the images you want to convert to webp format",
 );
-const CONVERT_IMAGE_FOLDER = "./convert-image";
+const CONVERT_IMAGE_FOLDER = "./images";
 let dir = "";
 
 // Function to convert image
